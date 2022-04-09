@@ -1,0 +1,76 @@
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: white;
+}
+h1{
+    text-align: center;
+    font-style: normal;
+    
+font-family: 'Rubik', sans-serif;
+}
+h4{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#div{
+    text-align: start;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+
+
+#VE{
+    padding-left: 630px;
+    position: relative;
+    top: -308px;
+}
+#video{
+    position: relative;
+    top: -100px;
+    padding-left: 710px;
+}
+#ve{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 600px;
+    position: relative;
+    top: -237px;
+}
+#SMM{
+
+    text-align: center;
+    margin-bottom: 100px;
+    text-align: right;
+    padding-right: 200px;
+    position: relative;
+    top: -115px;
+}
+
+#socialmedia{
+    padding-left: 1190px;
+    position: relative;
+    top: -300px;
+}
+#GD{
+    padding-left: 200px;
+    position: relative;
+    top: 5px;
+}
+
+
+#graphic{
+  padding-left: 260px;
+  position: relative;
+  top: 10px;
+}
+
+
+
+  
